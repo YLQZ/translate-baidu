@@ -16,13 +16,13 @@ free baidu translate
 ## Install
 
 ```
-npm install --save translate-baidu
+npm install --save translate-baidu2
 ```
 
 ## Usage
 
 ```js
-const translate = require('translate-baidu')
+const translate = require('translate-baidu2')
 
 translate('hello')
 	.then((res) => {
@@ -41,7 +41,7 @@ Translate Baidu cannot to translate Stitching strings
 this will be OK
 
 ```js
-const translate = require('translate-baidu')
+const translate = require('translate-baidu2')
 const str = `
 /**
  * Returns an iterator allowing to go through all key/value pairs contained in this object.
