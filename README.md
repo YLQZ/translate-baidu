@@ -4,7 +4,7 @@ free baidu translate
 
 ## Change Log
 
-- [changelog.md](https://github.com/shikar/NODE_BAIDU_TRANSLATE/blob/master/CHANGELOG.md)
+- [changelog.md](https://github.com/YLQZ/translate-baidu/blob/master/CHANGELOG.md)
 
 ## Features
 
@@ -80,12 +80,12 @@ Type: `object`
 ##### from
 
 Type: `string` Default: `auto`
-The `text` language. Must be `auto` or one of the codes/names (not case sensitive) contained in [languages.js](https://github.com/shikar/NODE_BAIDU_TRANSLATE/blob/master/src/languages.js)
+The `text` language. Must be `auto` or one of the codes/names (not case sensitive) contained in [languages.js](https://github.com/YLQZ/translate-baidu/blob/master/src/languages.js)
 
 ##### to
 
 Type: `string` Default: `en`
-The language in which the text should be translated. Must be one of the codes/names (not case sensitive) contained in [languages.js](https://github.com/shikar/NODE_BAIDU_TRANSLATE/blob/master/src/languages.js).
+The language in which the text should be translated. Must be one of the codes/names (not case sensitive) contained in [languages.js](https://github.com/YLQZ/translate-baidu/blob/master/src/languages.js).
 
 ##### full
 
@@ -113,4 +113,4 @@ translate('Hello world', { from: 'en', to: 'nl' })
 
 ## License
 
-MIT © [Shikar](qzh.shi@gmail.com)
+MIT © [YLQZ](1194979849@qq.com)

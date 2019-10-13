@@ -1,5 +1,5 @@
 {
-  "name": "translate-baidu",
+  "name": "translate-baidu2",
   "version": "0.0.1",
   "description": "A free and unlimited for Baidu Translate, Multi-translation support object input",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shikar/NODE_BAIDU_TRANSLATE.git"
+    "url": "git+https://github.com/YLQZ/translate-baidu.git"
   },
   "keywords": [
     "translate",
@@ -23,14 +23,14 @@
     "token"
   ],
   "author": {
-    "name": "shikar",
-    "email": "qzh.shi@gmail.com"
+    "name": "YLQZ",
+    "email": "1194979849@qq.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shikar/NODE_BAIDU_TRANSLATE/issues"
+    "url": "https://github.com/YLQZ/translate-baidu/issues"
   },
-  "homepage": "https://github.com/shikar/NODE_BAIDU_TRANSLATE#readme",
+  "homepage": "https://github.com/YLQZ/translate-baidu#readme",
   "dependencies": {
     "configstore": "^5.0.0",
     "request": "^2.88.0",
